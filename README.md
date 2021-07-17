@@ -1,10 +1,13 @@
 ### Choi eun chae
+<div style="display:flex">
 <img src="https://img.shields.io/badge/-javascript-green"/>
 <img src="https://img.shields.io/badge/-typescript-brightgreen"/>
 <img src="https://img.shields.io/badge/-react-yellowgreen"/>
+</div>
+<div style="display:flex">
 <img src="https://img.shields.io/badge/-HTML-orange"/>
 <img src="https://img.shields.io/badge/-CSS-blue"/>
-
+</div>
 <!--
 **off-echoi/off-echoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
