@@ -1,4 +1,10 @@
-### Hi there 👋
+### Choi eun chae
+
+https://img.shields.io/badge/-javascript-green
+https://img.shields.io/badge/-typescript-brightgreen
+https://img.shields.io/badge/-react-yellowgreen
+https://img.shields.io/badge/-HTML-orange
+https://img.shields.io/badge/-CSS-blue
 
 <!--
 **off-echoi/off-echoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
