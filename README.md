@@ -4,7 +4,8 @@
 
 </div>
 
-<center >안녕하세요, 최은채입니다.</center>
+##안녕하세요, 최은채입니다.
+<center>안녕하세요, 최은채입니다.</center>
 ===
 <center>
   마크업 개발자 · 프론트앤드 개발자 입니다.     
@@ -21,9 +22,10 @@
 
 <center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=off-echoi&show_icons=true&theme=react)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=off-echoi&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
+
 <!-- 
 - 🌱 Typescript, react 를 공부중입니다.
 - 🔭 I’m currently working on 
