@@ -4,20 +4,17 @@
 
 </div>
 
-<h1 style="text-align:center;">안녕하세요, 최은채입니다.</h1>
+# 안녕하세요, 최은채입니다.
 
 <center>
-  마크업 개발자 · 프론트앤드 개발자 입니다. <br>    
+  마크업 개발자 · 프론트앤드 개발자 입니다.    
   📫 off.echoi@gmail.com 
 </center>
 
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/-HTML-orange"/>
-<img src="https://img.shields.io/badge/-CSS-blue"/>
-<img src="https://img.shields.io/badge/-javascript-green"/>
-<img src="https://img.shields.io/badge/-typescript-brightgreen"/>
-<img src="https://img.shields.io/badge/-react-yellowgreen"/>          
+<img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-CSS-blue"/>        
+<img src="https://img.shields.io/badge/-javascript-green"/> <img src="https://img.shields.io/badge/-typescript-brightgreen"/> <img src="https://img.shields.io/badge/-react-yellowgreen"/>          
 
 
 <center>
