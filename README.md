@@ -11,15 +11,15 @@
 </p>
 <br>
 <p align="center">
-  현재 진행중인 프로젝트 입니다.<br>  
-  ### 기존 페이지 클론 프로젝트
-  HTML, css, javascript : https://github.com/off-echoi/project-clone-html_css_js<br>
-  ### 과외학생 관리 프로젝트
-  React.js, ,typescript : https://github.com/off-echoi/project-drill<br>
-  배포 : https://off-echoi.github.io/project-drill/
-  ### 채팅기능 구현 프로젝트
-  Raact.js, typescript : https://github.com/off-echoi/project-chat <br>
-  배포 : https://off-echoi.github.io/project-chat/
+  현재 진행중인 프로젝트 입니다.<br>  <br>  
+  ## 채팅기능 구현 프로젝트 ##<br>  
+  Raact.js : https://github.com/off-echoi/project-chat <br>
+  배포 : https://off-echoi.github.io/project-chat/<br><br>
+  ## 과외학생 관리 프로젝트 ##<br>  
+  React.js : https://github.com/off-echoi/project-drill<br>
+  배포 : https://off-echoi.github.io/project-drill/ <br>  <br>
+  ## 백설 페이지 클론 프로젝트 ##<br>  
+  HTML : https://github.com/off-echoi/project-clone-html_css_js<br>
   </p>
 <h2 align="center">Tech Stack</h2>
 
