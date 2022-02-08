@@ -13,7 +13,8 @@
 <p align="center">
   현재 진행중인 프로젝트 입니다.<br>  
   HTML, css, javascript : https://github.com/off-echoi/project-clone-html_css_js<br>  
-  React.js, ,typescript : https://github.com/off-echoi/project-drill
+  React.js, ,typescript : https://github.com/off-echoi/project-drill<br>
+  Raact.js, typescript : https://github.com/off-echoi/project_chat <br>
   </p>
 <h2 align="center">Tech Stack</h2>
 
