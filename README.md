@@ -10,6 +10,7 @@
   📫 off.echoi@gmail.com 
 </p>
 <br>
+<!--
 <p align="center">
   현재 진행중인 프로젝트 입니다.<br>  <br>  
   ## 채팅기능 구현 프로젝트 ##<br>  
@@ -22,7 +23,7 @@
   HTML : https://github.com/off-echoi/project-clone-html_css_js<br>
   </p>
 <h2 align="center">Tech Stack</h2>
-
+-->
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=ffffff"/>     
