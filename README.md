@@ -6,7 +6,7 @@
 
 <h1 align="center">안녕하세요, 최은채입니다.</h1>
 <p align="center">
-  마크업 개발자 · 프론트앤드 개발자<br>    
+  프론트앤드 개발자<br>    
   📫 off.echoi@gmail.com 
 </p>
 <br>
