@@ -39,17 +39,14 @@
   
 </div>
 
-<!-- 
 - 🌱 Typescript, react 를 공부중입니다.
 - 🔭 I’m currently working on 
-- ⚡ Fun fact: ...
-- 💬 Ask me about 
 - 🤔 현재 구직중입니다.
-- 포트폴리오는 ### 과 ###입니다.
 
+[repository]
+- study- : 공부 & 강의용
+- check-lib- : 라이브러리 검토용
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
-
--->
