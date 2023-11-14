@@ -6,7 +6,10 @@
 
 <h1 align="center">안녕하세요, 최은채입니다.</h1>
 <p align="center">
-  프론트앤드 개발자<br>    
+  사용자와 개발자의 관점에서 고민하는 프론트앤드 개발자 최은채입니다.<br>
+  다른 사람과 의견 교류하는 것을 좋아하며<br>
+  최적화와 성능향상에 관심이 있습니다.<br><br>
+  사이드 프로젝트 : - [Drill](https://github.com/off-echoi/project-drill)<br>
   📫 off.echoi@gmail.com 
 </p>
 <br>
@@ -18,6 +21,7 @@
   <img src="https://img.shields.io/badge/-javascript-green?style=flat-square&logo=javascript&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/-typescript-brightgreen?style=flat-square&logo=typescript&logoColor=ffffff"/> 
   <img src="https://img.shields.io/badge/-react-086dc3?style=flat-square&logo=react&logoColor=ffffff"/>      
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </p>
 
 <div align="center">
